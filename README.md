@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaclavElias
 - 👀 I’m interested in C# and .NET Core coding.
-- 🌱 I’m currently learning AWS.
-- 💞️ I’m collaborating on CodeCapital projects.
+- 🌱 I’m currently learning Stride3d.
+<!--- - 💞️ I’m collaborating on CodeCapital projects.--->
 - 📫 How to reach me ...
 
 <!---

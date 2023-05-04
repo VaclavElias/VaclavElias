@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaclavElias
 - 👀 I’m interested in C# and .NET Core coding.
-- 🌱 I’m currently learning Stride3d.
+- 🌱 I’m currently learning Stride3D Game Engine https://www.stride3d.net/.
 <!--- - 💞️ I’m collaborating on CodeCapital projects.
 - 📫 How to reach me ...
 --->

@@ -9,3 +9,6 @@
 
 🔗 **Check out my blog post** about the Stride Community Toolkit's code-only feature: [Stride Community Toolkit - Code-Only Basics (C#)](https://www.vaclavelias.com/stride3d/stride-community-toolkit-code-only-basics-csharp/)
 
+---
+
+![Vacla's github stats](https://github-readme-stats.vercel.app/api?username=vaclavelias&show_icons=true)
